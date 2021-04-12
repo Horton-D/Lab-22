@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E699A93D-87EB-44D9-ACFE-AD33602F80FC}|Default">
+  <MonoDevelop.Ide.ItemProperties.MovieC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieC/Views/Movie/SearchResultTitle.cshtml">
+    <Files>
+      <File FileName="MovieC/Controllers/MovieController.cs" Line="21" Column="26" />
+      <File FileName="MovieC/Views/Movie/SearchResultsGenre.cshtml" />
+      <File FileName="MovieC/Database/Moviedata.cs" />
+      <File FileName="MovieC/Views/Movie/Index.cshtml" />
+      <File FileName="MovieC/Views/Movie/SearchResultTitle.cshtml" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieC" expanded="True">
+            <Node name="MovieC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Database" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Movie" expanded="True">
+                  <Node name="SearchResultTitle.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,27 @@
+﻿@model  IEnumerable<MovieC.Models.Movie>
+@{
+}
+
+
+<h1>Search By Genre</h1>
+<hr/>
+
+
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Genres
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+        <a asp-action="SearchResultsGenre"></a>
+        <a class="dropdown-item" href="#">Romance</a>
+        <a class="dropdown-item" href="#">Comedy</a>
+        <a class="dropdown-item" href="#">Thriller</a>
+        <a class="dropdown-item" href="#">Horror</a>
+        <a class="dropdown-item" href="#">Drana</a>
+        <a class="dropdown-item" href="#">Musical</a>
+        <a class="dropdown-item" href="#">Crime</a>
+
+
+    </div>s
+</div>
